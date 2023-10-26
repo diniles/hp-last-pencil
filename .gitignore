@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Last Pencil (Java)/task/build/
+/Last Pencil (Java)/task/out/
+/Last Pencil (Java)/task/out/production/classes/
+/Topics/Declaring a method/Calculating factorials/out/
+/Topics/Declaring a method/Calculating factorials/out/production/classes/
